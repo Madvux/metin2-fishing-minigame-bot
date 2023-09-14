@@ -1,8 +1,13 @@
 # metin2-fishing-minigame-bot
 
+> [!NOTE]
 **NEEDS ADMIN PRIVILEGES**
+
+> [!IMPORTANT]
 **Console application**
-__I do not take responsibility of any illegal use of game bot__
+
+> [!WARNING]
+> __I do not take responsibility of any illegal use of game bot__
 
 Bot compares screenshot from __img__ directory and based on number - clicks __space__ number of times. 
 Top run bot open console with admin privileges, go to project directory using __cd **path**__ command and run __img_recognition.py__.
